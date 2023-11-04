@@ -1,12 +1,12 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">A passionate Tech from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🔭 I’m currently working on [Infinite Productix Project](https://github.com/ANURAGSISODIYAA/Infinite-productivity)
+- 🔭 I’m currently working on [Dev-Project](https://github.com/Kaushallokhande/Dev-Project)
 
-- 🌱 I’m currently learning **React Js and Angular**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kaushal-lokhande-709432256](https://www.linkedin.com/in/kaushal-lokhande-709432256)
 
