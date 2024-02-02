@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🔭 I’m currently working on [Dev-Project](https://github.com/Kaushallokhande/Dev-Project)
+- 🔭 I’m currently working on [Task-Management](https://github.com/Kaushallokhande/Task-Management)
 
 - 🌱 I’m currently learning **React Js**
 
